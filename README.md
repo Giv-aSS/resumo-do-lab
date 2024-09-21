@@ -9,3 +9,5 @@ Nesta aula foi demonstrado de maneira introdutória as configurações permitida
 Nesta aula foi demonstrado um pouco da infraestrutura global da azure e passos iniciais para criação e gerenciamento de seu grupo de recursos.
 ## Lições aprendidas na aula (Microsoft Azure - Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure)
 Nesta lição foi mostrado o passo a passo para criação de uma VM "Virtual Machine", onde é visto pontos de atenção e otimização do processo.
+## Lições aprendidas na aula (Microsoft Azure - Dominando o Armazenamento na Azure)
+Neste tópico passamos pelas maneiras de gerenciamento, migração e cópias de arquivos disponibilizadas pela Microsoft.
