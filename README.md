@@ -11,3 +11,5 @@ Nesta aula foi demonstrado um pouco da infraestrutura global da azure e passos i
 Nesta lição foi mostrado o passo a passo para criação de uma VM "Virtual Machine", onde é visto pontos de atenção e otimização do processo.
 ## Lições aprendidas na aula (Microsoft Azure - Dominando o Armazenamento na Azure)
 Neste tópico passamos pelas maneiras de gerenciamento, migração e cópias de arquivos disponibilizadas pela Microsoft.
+## Lições aprendidas na aula (Microsoft Azure - Entendendo sobre Segurança e Identidade na Azure)
+Nesta lição foi apresentado funções relacionadas a acesso, segurança e monitoramento.
