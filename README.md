@@ -19,3 +19,5 @@ Nesta aula foi aprendido a relação de custos e recursos, assim como também de
 Nesta lição foi demonstrado maneiras de se ter um controle relacionado a acessos e quais tipos de licensas são permitidas, assim també maneiras de monitorar e auditar isso.
 ## Lições aprendidas na aula (Microsoft Azure - Ferramentas de Implantação na Azure)
 Nesta aula é visto como de fato criar e gerenciar os recursos Azure.
+## Lições aprendidas na aula (Microsoft Azure - Ferramentas de Monitoramento do Azure)
+Neste tópico é visto ferramentas de monitoramento da Azure.
