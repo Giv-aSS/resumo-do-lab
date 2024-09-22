@@ -13,3 +13,5 @@ Nesta lição foi mostrado o passo a passo para criação de uma VM "Virtual Mac
 Neste tópico passamos pelas maneiras de gerenciamento, migração e cópias de arquivos disponibilizadas pela Microsoft.
 ## Lições aprendidas na aula (Microsoft Azure - Entendendo sobre Segurança e Identidade na Azure)
 Nesta lição foi apresentado funções relacionadas a acesso, segurança e monitoramento.
+## Lições aprendidas na aula (Microsoft Azure - Otimizando Custos no Azure)
+Nesta aula foi aprendido a relação de custos e recursos, assim como também de simular através de uma calculadora de custos.
