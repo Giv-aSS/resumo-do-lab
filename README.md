@@ -15,3 +15,5 @@ Neste tópico passamos pelas maneiras de gerenciamento, migração e cópias de 
 Nesta lição foi apresentado funções relacionadas a acesso, segurança e monitoramento.
 ## Lições aprendidas na aula (Microsoft Azure - Otimizando Custos no Azure)
 Nesta aula foi aprendido a relação de custos e recursos, assim como também de simular através de uma calculadora de custos.
+## Lições aprendidas na aula (Microsoft Azure - Gerenciando Politicas em Acessos Azure)
+Nesta lição foi demonstrado maneiras de se ter um controle relacionado a acessos e quais tipos de licensas são permitidas, assim també maneiras de monitorar e auditar isso.
